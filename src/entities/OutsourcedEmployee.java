@@ -1,5 +1,6 @@
 package entities;
 
-public class OutsourcedEmployee {
+public class OutsourcedEmployee extends Employee{
 
+	
 }
